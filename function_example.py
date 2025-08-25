@@ -3,3 +3,4 @@ def fullname(fname, lname):
     print(lname)
 fullname("vijay", "reddy")
 fullname("3","4")
+fullname('algari', 'arjun')
